@@ -1,0 +1,9 @@
+{
+  "auth": [
+    {
+      "access_token": 1,
+      "token_type": "password",
+      "expires_in": 1000
+    }
+  ]
+}
